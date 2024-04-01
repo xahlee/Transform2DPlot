@@ -1,6 +1,10 @@
+## Transform2DPlot
+
 Transform2DPlot is a package for Wolfram language / Mathematica for visualization of planar transformations.
 
 you can plot 2d vector function, or complex valued function, or transform any 2d graphics object, or show them in reimann sphere (stereographically project a plane to a sphere)
+
+## Files
 
 Transform2DPlot.wl
 is the code.
@@ -13,17 +17,19 @@ is pretty examples.
 
 all exported symbols are fully documented. 
 
-![image](i/Transform2DPlot_2024-03-31_Gqgc.png)
-![image](i/Transform2DPlot_2024-03-31_kYps.png)
-![image](i/Transform2DPlot_2024-03-31_Vqnt.png)
-![image](i/Transform2DPlot_2024-03-31_jztp.png)
-![image](i/Transform2DPlot_2024-03-31_WnJJ.png)
-![image](i/Transform2DPlot_2024-03-31_mVZP.png)
-![image](i/Transform2DPlot_2024-03-31_Sqth.png)
-![image](i/Transform2DPlot_2024-03-31_kHm5.png)
+## Feature Gallery
 
-Home page url:
-Mathematica Package: Geometric Transformation and Complex Function Plot
+![](i/Transform2DPlot_waves_Gqgc.png)
+![](i/Transform2DPlot_taichi_swirl_WnJJ.png)
+![](i/Transform2DPlot_sin_fan_mVZP.png)
+![](i/Transform2DPlot_amethyst_Sqth.png)
+![](i/Transform2DPlot_cosine_kYps.png)
+![](i/Transform2DPlot_complex_inv_Vqnt.png)
+![](i/Transform2DPlot_complex_inv_jztp.png)
+![](i/Transform2DPlot_stereo_proj.png)
+
+## Home Page URL
+
 http://xahlee.info/complex/Mathematica/packages.html
 
 Thanks to Wolfram Research for sponsor.
